@@ -51,7 +51,7 @@ To install the required libraries, run:
 pip install -r requirements.txt
 ```
 
-### Acknowledgments
+## Acknowledgments
 
 - Udacity: For providing the project and guiding the data wrangling and analysis process.
 
